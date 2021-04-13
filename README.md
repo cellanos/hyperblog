@@ -1,2 +1,2 @@
-# hypernlog
+# hyperblog
 Blog del curso
